@@ -300,6 +300,12 @@
     }
 }
 
+@media screen and (max-width:1000px){
+    .logo img{
+        width:200px ;
+    }
+}
+
 .right-nav{
     display: flex;
     gap: 35px;
